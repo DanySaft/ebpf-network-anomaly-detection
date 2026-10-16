@@ -4,7 +4,6 @@
 
 > **Overview**: This project implements a real-time Intrusion Detection System (IDS). It uses eBPF/XDP to filter and collect network packets, an Isolation Forest model (Machine Learning) to detect anomalies, and an automated pipeline (N8N + Ollama LLM) to generate incident reports.
 > 
-> *La documentation d'installation et d'utilisation ci-dessous est en français.*---
 
 ## Prérequis
 
