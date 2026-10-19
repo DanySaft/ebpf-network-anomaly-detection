@@ -1,6 +1,7 @@
 # Détection d'anomalies réseau - eBPF + Isolation Forest + N8N + Ollama
 
-*Academic project - M1 Cryptis (Université de Limoges).*
+*Academic project - M1 Cryptis (Université de Limoges)*
+*Co-authored with Ev0x404 (https://github.com/Ev0x404)*
 
 > **Overview**: This project implements a real-time Intrusion Detection System (IDS). It uses eBPF/XDP to filter and collect network packets, an Isolation Forest model (Machine Learning) to detect anomalies, and an automated pipeline (N8N + Ollama LLM) to generate incident reports.
 > 
